@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">U3IMCApp</string>
+    <string name="titulo_app">Indice de Masa Corporal</string>
+    <string name="peso">Peso</string>
+    <string name="estatura">Estatura</string>
+    <string name="btn_calcular">Calcular IMC</string>
+    <string name="BTN_acercade">Acerca de...</string>
+    <string name="IMC">IMC</string>
+    <string name="condicion_salud">SU condicion es:</string>
+    <string name="delgadez_MSevera">Delgadez muy severa</string>
+    <string name="delgadez_Severa">Delgadez Severa</string>
+    <string name="Delgadez">Delgadez</string>
+    <string name="Peso_Saludable">Peso saludable</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="Obesidad_Moderada">Obesidad Moderada</string>
+    <string name="Obesidad_Severa">Obesidad Severa</string>
+    <string name="Obesidad_MSevera">Obesidad muy severa</string>
+    <string name="Creado_por">Creado por</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="campos">Campos no validos</string>
+    <string name="estaturaVacia">Ingrese la estatura</string>
+    <string name="pesoVacio">Ingrese el peso</string>
+    <string name="enejun">Ene-Jun 2023</string>
+</resources>

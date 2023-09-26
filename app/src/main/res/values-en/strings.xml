@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3IMCApp</string>
+    <string name="titulo_app">Body Mass index</string>
+    <string name="peso">Weight(kg)</string>
+    <string name="estatura">Height(m)</string>
+    <string name="btn_calcular">CALCULATE BMI</string>
+    <string name="BTN_acercade">About</string>
+    <string name="IMC">BMI</string>
+    <string name="condicion_salud">Your health condition is:</string>
+    <string name="delgadez_MSevera">Very severe thines</string>
+    <string name="delgadez_Severa">Severe Thines</string>
+    <string name="Delgadez">Thines</string>
+    <string name="Peso_Saludable">Healty Weight</string>
+    <string name="sobrepeso">Over Weight</string>
+    <string name="Obesidad_Moderada">Moderate Obesity</string>
+    <string name="Obesidad_Severa">Severe Obesity</string>
+    <string name="Obesidad_MSevera">Very Severe Obesity</string>
+    <string name="Creado_por">Create By</string>
+    <string name="Aceptar">OK</string>
+    <string name="campos">Invalid fields</string>
+    <string name="estaturaVacia">Enter Height</string>
+    <string name="pesoVacio">Enter Weight</string>
+    <string name="enejun">Jan-july 2023</string>
+</resources>
